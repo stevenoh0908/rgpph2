@@ -1,5 +1,5 @@
 '''
-{Relationship of Galatic Physical Properties with H II Areas via its Image}
+{Relationship between Galatic Physical Properties and H II Areas via its Image}
 Date: 2020-06-07 Sun, KST
 Developed by Stephen Oh, Chief Developer of Trendous Development Alliance & Studio.Chem with Ji-won Jang.
 Email Address: stevenoh0908@gmail.com
